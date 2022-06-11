@@ -1,3 +1,16 @@
-baseURL = 'http://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+baseURL = 'http://darling.blog.br/'
+copyright = 'Renan Dev'
+defaultContentLanguageInSubdir = true
+languageCode = 'pt-br'
+title = 'Novo Site'
+
+DefaultContentLanguage = "pt"
+[languages]
+[languages.pt]
+languageName = "Portugues"
+title = 'Novo Site'
+weight = 1
+[languages.en]
+languageName = "English"
+title = "My New Hugo Site"
+weight = 2
