@@ -20,4 +20,5 @@ fields:
     maxSize: 64
   label: featured_image
 pages:
+- content/posts/my-first-post-copy.md
 - content/posts/primeiro-dia-dos-namorados.md
