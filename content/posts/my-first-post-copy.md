@@ -1,7 +1,7 @@
 +++
 date = 2022-06-09T11:07:10Z
 description = "Para a minha amada, para nós neste primeiro dia dos namorados"
-featured_image = "/uploads/gpqxps_85914e2ef35ec975c0225d9efbd58dfe_00-00-00_00-00-02_1.gif"
+featured_image = "/uploads/gpqxps_85914e2ef35ec975c0225d9efbd58dfe_00-00-00_00-00-02_3.gif"
 tags = ["relacionamento", "namoro", "dia dos namorados"]
 title = "Dia dos namorados"
 
@@ -10,11 +10,17 @@ title = "Dia dos namorados"
 
 <br>
 
+<br>
+
 Aprendi contigo ainda mais valor da sinceridade (afinal trabalhamos com verdades né kkkk) e como minha vida é muito mais simples e leve contigo, com nossa transparência e cumplicidade . Nunca imaginei ter uma namorada tão dedicada e apaixonada quanto você, em cada ato seu percebo o amor que a entre nós.
 
 <br>
 
+<br>
+
 Obrigado por ser esta pessoa maravilhosa comigo, não sei se sou merecedor de tanto. Você é uma pessoa muito especial, esforçada, generosa e tem um coração enorme, tenho uma enorme admiração por você, minha pretinha.
+
+<br>
 
 <br>
 
