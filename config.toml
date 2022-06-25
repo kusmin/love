@@ -2,15 +2,18 @@ baseURL = 'http://darling.blog.br/'
 copyright = 'Renan Dev'
 defaultContentLanguageInSubdir = true
 languageCode = 'pt-br'
-title = 'Novo Site'
+title = 'Darling'
 
 DefaultContentLanguage = "pt"
+[params]
+site_logo = '/uploads/logo.png'
+
 [languages]
 [languages.pt]
 languageName = "Portugues"
-title = 'Novo Site'
+title = 'Darling - Blog de relacionamento'
 weight = 1
 [languages.en]
 languageName = "English"
-title = "My New Hugo Site"
+title = "Darling"
 weight = 2
