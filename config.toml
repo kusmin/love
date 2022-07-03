@@ -6,8 +6,9 @@ title = 'Darling'
 
 DefaultContentLanguage = "pt"
 [params]
-site_logo = '/uploads/logo.png'
-
+  site_logo = '/uploads/logo.png'
+  commento_enable= true
+show_reading_time=true
 [languages]
 [languages.pt]
 languageName = "Portugues"

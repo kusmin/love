@@ -54,7 +54,7 @@
       {{ if .Site.DisqusShortname }}
         {{ template "_internal/disqus.html" . }}
       {{ end }}
-      {{ if .Site.Params.commentoEnable }}
+      {{ if .Site.Params.commento_enable }}
         {{- partial "commento.html" . -}}
       {{ end }}
       </div>
