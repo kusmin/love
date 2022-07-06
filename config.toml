@@ -8,6 +8,7 @@ DefaultContentLanguage = "pt"
 [params]
   site_logo = '/uploads/logo.png'
   commento_enable= true
+  favicon="/favicon/favicon.ico"
 show_reading_time=true
 [languages]
 [languages.pt]
