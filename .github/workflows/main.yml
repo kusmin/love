@@ -1,5 +1,7 @@
 name: CI
 on: push
+env:
+  HUGO_ENV: production
 jobs:
   deploy:
     runs-on: ubuntu-22.04
