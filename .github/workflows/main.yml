@@ -1,7 +1,5 @@
 name: CI
 on: push
-env:
-  HUGO_ENV: production
 jobs:
   deploy:
     runs-on: ubuntu-22.04
@@ -22,6 +20,8 @@ jobs:
       - name: Build
         # remove --minify tag if you do not need it
         # docs: https://gohugo.io/hugo-pipes/minification/
+        env:
+          HUGO_ENV: production
         run: hugo --minify
 
       - name: Deploy
